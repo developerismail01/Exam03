@@ -1,0 +1,633 @@
+@media (max-width: 1400px) {
+  .research_section article .research_para h2 a {
+    font-size: 1.3rem;
+    line-height: 2rem;
+  }
+  .sciencetist_section .sciencetist_img {
+    width: 251px;
+    height: 251px;
+  }
+  .biology_section .s__item:nth-child(odd) .biology_item {
+    top: 0;
+    position: static;
+  }
+  .biology_section {
+    position: relative;
+    top: 0;
+    padding: 0 0 90px 0;
+  }
+  .slider3_section .slider_caption h1 {
+    font-size: 3rem;
+  }
+  .slider3_section .slider_caption .slider_caption__inner {
+    width: 90%;
+  }
+  .biology_section .biology_item {
+    margin: 11px 0;
+  }
+  .about_section .about_last_part h2 {
+    color: #222222eb;
+    font-weight: 600;
+    font-size: 2rem;
+    line-height: 2.7rem;
+  }
+  .about_section .about_last_part p {
+    text-align: left;
+    font-size: 1rem;
+    line-height: 1.7rem;
+  }
+  .about_section .about_first_parttion .small_image {
+    bottom: -13%;
+    right: -12%;
+  }
+  .inner_service_section .service_box .service_para h2 {
+    font-size: 1.2rem;
+  }
+  .inner_service_section .service_box .service_icon {
+    flex-basis: 211px;
+  }
+  .biology_section {
+    padding: 100px 0;
+  }
+}
+
+@media all and (max-width: 1258px) {
+  .shape__design .custom-shape-divider-bottom-1625469687 {
+    bottom: 8rem;
+  }
+  .slider3_section .slider_caption h1 {
+
+    font-size: 3rem;
+  }
+
+
+  .Lab_section .Lab_first .progress_item .number1 {
+    transform: translateX(-6rem);
+  }
+  .Lab_section .Lab_first .progress_item .number2 {
+    transform: translateX(-12.5rem);
+  }
+
+  .Lab_section .Lab_first .progress_item .number3 {
+    transform: translateX(-2.5rem);
+  }
+}
+
+@media (max-width: 1203px) {
+  .sciencetist_section .sciencetist_round {
+    text-align: center;
+    margin: 25px 0;
+  }
+  .artist_section #artist_slider_section .artist_box {
+    width: 92%;
+    padding: 80px 28px;
+  }
+  .Lab_section .lab_last {
+    margin-top: 68px;
+  }
+  .about_section .about_last_part h2 {
+    font-size: 1.4rem;
+    line-height: 2rem;
+  }
+  .about_section .about_last_part p {
+    font-size: 0.9rem;
+    line-height: 1.4rem;
+  }
+  .experience_section .choose_para h2 {
+    font-size: 1.1rem;
+  }
+  .experience_section .available > p {
+    padding: 0;
+  }
+  .experience_section .choose_para p {
+    font-size: 0.9rem;
+  }
+  .experience_section .choose_box .choose_icon span {
+    font-size: 1.6rem;
+    margin-top: 0px;
+    width: 25px;
+    height: 25px;
+    line-height: 18px;
+  }
+  .experience_section .available h2 {
+    font-size: 1.2rem;
+    line-height: 24px;
+  }
+  .experience_section .available > p {
+    font-size: 0.9rem;
+  }
+  .experience_section .experience_image {
+    margin: 0;
+  }
+  .Lab_section .lab_last form > div {
+    margin: 22px 0;
+  }
+  .Lab_section .lab_last form h2 {
+    margin-bottom: 43px;
+  }
+  .slider3_section .slider_caption h1 {
+    font-size: 3rem;
+  }
+  .artist_section #artist_slider_section .carousel-inner {
+    width: 100%;
+  }
+  .artist_section #artist_slider_section .artist_box p {
+
+    padding: 0 35px;
+  }
+
+  .Lab_section .Lab_first .progress_item .number1 {
+    transform: translateX(-11rem);
+  }
+  .Lab_section .Lab_first .progress_item .number2 {
+    transform: translateX(-22.5rem);
+  }
+  .Lab_section .Lab_first .progress_item .number3 {
+    transform: translateX(-5.5rem);
+  }
+}
+
+@media all and (max-width: 1170px) {
+  .artist_section #artist_slider_section .artist_box {
+    width: 91%;
+    margin: 60px auto;
+    padding: 60px 40px;
+    border-radius: 10px;
+  }
+  .artist_section #artist_slider_section .artist_box p {
+    animation: none;
+  }
+  .sciencetist_section .sciencetist_img {
+    width: 251px;
+    height: 251px;
+    margin: auto;
+  }
+  .artist_section #artist_slider_section .carousel-inner {
+    width: 100%;
+  }
+  .artist_section #artist_slider_section .artist_slider__controler:hover {
+    background: #000;
+  }
+
+
+}
+
+@media all and (max-width: 1172px) {
+  .shape__design .custom-shape-divider-bottom-1625469687 {
+    bottom: 10.4rem;
+  }
+
+  .slider3_section .slider_caption .slider_caption_inner {
+    width: 100%;
+  }
+
+  .artist_section #artist_slider_section .artist_image {
+
+    width: 100px;
+    height: 100px;
+
+  }
+  .artist_section #artist_slider_section .artist_box p {
+
+    padding: 0 22px;
+  }
+  .slider3_section .slider_caption h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+}
+
+@media (max-width: 994px) {
+  .sky_section{
+    display: none;
+  }
+  .slider3_section .slider_caption h1 {
+    font-size: 2.5rem;
+  }
+  .slider3_section {
+    height: auto !important;
+  }
+  .biology_section {
+    padding: 90px 0;
+  }
+  .inner_service_section .service_box .service_icon span {
+    width: 98px;
+    height: 98px;
+    border-radius: 50%;
+    line-height: 108px;
+    font-size: 2.6rem;
+    transition: all 0.4s;
+    margin-left: 14px;
+    margin-top: 4px;
+  }
+  .about_section .about_last_part {
+    margin-left: 0;
+    margin-top: 98px;
+    padding-left: 0;
+  }
+  .about_section .about_first_parttion .inner_image > img {
+    width: 100%;
+  }
+  .about_section .about_last_part h2 {
+    font-size: 1.8rem;
+    line-height: 2.7rem;
+  }
+  .about_section .about_last_part p {
+    font-size: 1rem;
+    line-height: 1.7rem;
+  }
+  .order__one {
+    order: 1;
+  }
+  .order__two {
+    order: 2;
+  }
+  .experience_image {
+    text-align: center;
+  }
+  .experience_section .result_section {
+    margin-right: 0;
+    margin-top: 40px;
+  }
+  .sciencetist_section .sciencetist_round {
+    text-align: center;
+    margin: 12px 0;
+    border: 1px solid rgba(221, 221, 221, 0.541);
+    padding: 40px 10px;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+  }
+  .sciencetist_section .sciencetist_round:hover {
+    box-shadow: 0 0 10px rgba(221, 221, 221, 0.678);
+  }
+  .Lab_section .Lab_first {
+    margin-right: 0;
+  }
+  .complete_counter_section .container {
+    max-width: 100% !important;
+    margin: 0;
+    padding: 0;
+  }
+  .complete_counter_section .container .counter_section {
+    border-radius: 0;
+  }
+  .slider3_section .custom-shape-divider-bottom-1625469687 svg {
+    height: 93px;
+  }
+  .counter_section {
+    margin: 69px 0;
+    box-shadow: 0 0 30px #ddd;
+  }
+  body {
+    overflow-x: hidden;
+  }
+  .research_section article {
+    margin: 20px 1px;
+    box-shadow: 0px 0 15px rgba(221, 221, 221, 0.356);
+  }
+  .research_section article .research_section_image {
+    height: 255px;
+  }
+  .research_section article .research_section_image img {
+    transition: 0.4s;
+  }
+  .research_section article .research_section_image:hover img {
+    filter: grayscale(100%);
+  }
+  .header__top p {
+    font-size: 0.8rem;
+  }
+  nav .nav__right {
+    overflow: hidden !important;
+  }
+  nav .megaaa {
+    display: none;
+  }
+  nav ul > li a {
+    padding: 10px 22px !important;
+    border-bottom: 1px solid rgba(221, 221, 221, 0.459);
+  }
+  nav ul > li .dropdown-menu.shadow-sm.show {
+    display: block !important;
+    transform: translate(0) !important;
+  }
+  nav ul > li > ul.dropdown-menu {
+    display: none !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    position: absolute;
+    width: 100%;
+  }
+  nav #search:checked + .nav__right span label {
+    color: #12a4fffa;
+  }
+  nav #search:checked + .nav__right span label .search__box {
+    width: 80%;
+    top: -15%;
+    left: 20%;
+  }
+  nav .nav__right .search__box {
+    width: 80%;
+    top: -15%;
+    left: 20%;
+    transform: translateY(100px);
+  }
+  nav .dropdown-toggle::after {
+    top: 8px;
+    right: 0;
+  }
+  .slider3_section .slider_caption {
+    width: 100%;
+  }
+  .slider3_section .slider_caption h1 {
+    font-size: 1.6rem;
+  }
+  .slider3_section .slider_caption p {
+    width: 80%;
+    font-size: 0.9rem;
+    line-height: 23px;
+  }
+  .slider3_section .slider_caption a {
+    padding: 6px 34px;
+    font-size: 1rem;
+    margin-top: 10px;
+  }
+  .about_section .about_first_part {
+    padding-right: 88px;
+  }
+  .artist_section #artist_slider_section .artist_image {
+    width: 90px;
+    height: 90px;
+  }
+  .artist_section #artist_slider_section .artist_box p {
+    padding: 0 26px;
+  }
+  .liquid_section .carousel-inner .carousel-item .inner_section {
+    transform: translate(0);
+  }
+  .liquid_section .carousel-inner .carousel-item img {
+    width: 8rem;
+    height: 8rem;
+  }
+  .liquid_section .carousel-inner {
+    padding: 6rem 0 6rem 0;
+  }
+}
+
+@media (max-width: 770px) {
+  .icon_img_section .inner_image {
+    text-align: center;
+    margin: 10px -2px;
+    border: 1px solid #ddd;
+    padding: 20px;
+  }
+  .icon_img_section .inner_image img {
+    width: 100px;
+  }
+  .footer_box {
+    margin-top: 28px;
+  }
+  .icon_img_section {
+    padding: 78px 0;
+    background: #fafaff;
+  }
+  .artist_section #artist_slider_section .artist_box {
+    width: 100%;
+    margin: 60px auto;
+    padding: 40px 20px;
+  }
+  .artist_para h2 {
+    margin-bottom: 0px;
+  }
+  .artist_section #artist_slider_section .artist_box a.name {
+    font-size: 1.4rem;
+    margin-top: 30px;
+  }
+  .artist_section #artist_slider_section .artist_box p {
+    font-size: 0.9rem;
+    line-height: 1.5rem;
+  }
+  .carousel-item {
+    padding: 0 10px;
+    box-sizing: border-box;
+  }
+  .Lab_section .Lab_first .available h2 {
+    font-size: 2rem;
+    font-weight: 600;
+  }
+  footer {
+    padding: 55px 0;
+  }
+  .counter_section .counter_para h2 {
+    font-size: 2rem;
+    font-weight: 600;
+  }
+  .counter_section .counter_para span {
+    color: black;
+    font-size: 0.8rem;
+    font-weight: 600;
+  }
+  .sciencetist_section .available {
+    margin-bottom: 80px;
+  }
+  .header__top {
+    display: none;
+  }
+  nav .navbar-brand img {
+    width: 78px;
+  }
+  #pointable {
+    padding: 10px 0 !important;
+  }
+  .slider3_section .carousel-item {
+    padding: 0 !important;
+  }
+  .slider3_section .custom-shape-divider-bottom-1625469687 {
+    display: none;
+  }
+  .research_section article {
+    margin: 18px 36px;
+  }
+
+  .biology_section {
+    padding: 64px 0;
+  }
+  .inner_service_section .service_box .service_icon {
+    margin-right: 23px;
+  }
+  .about_section .about_first_parttion {
+    height: 400px;
+  }
+  .about_section .about_first_parttion .inner_image {
+    height: 100%;
+  }
+  .about_section .about_first_parttion img {
+    height: 100%;
+  }
+  .about_section {
+    padding-bottom: 95px;
+  }
+  .slider3_section #carouselExampleCaptions .carousel-inner .carousel-item {
+    height: 396px;
+  }
+  .slider3_section #carouselExampleCaptions .carousel-inner .carousel-item img {
+    height: 100%;
+  }
+  .slider3_section .slider_caption h1 {
+    margin-top: 60px;
+  }
+  .artist_section #artist_slider_section .artist_image {
+    width: 80px;
+    height: 80px;
+  }
+  .artist_section #artist_slider_section .artist_box p {
+
+    text-align: justify;
+    padding: 0 50px;
+  }
+  .liquid_section .carousel-inner .carousel-item .inner_section {
+    transform: translate(3rem);
+  }
+  .col-sm-6{
+    margin-bottom: 3rem;
+  }
+  .liquid_section .carousel-inner {
+    padding: 4rem 0 3rem 0;
+  }
+
+  .Lab_section .Lab_first .progress_item .number1 {
+    transform: translateX(-6rem);
+  }
+
+  .Lab_section .Lab_first .progress_item .number2 {
+    transform: translateX(-12.5rem);
+  }
+  .Lab_section .Lab_first .progress_item .number3 {
+    transform: translateX(-2.5rem);
+  }
+
+}
+
+@media (max-width: 578px) {
+  footer .xs {
+    width: 50%;
+  }
+  .icon_img_section .row > * {
+    width: 50%;
+  }
+  .counter_section .row > * {
+    width: 50%;
+    margin: 20px 0;
+  }
+  .Lab_section .lab_last form > div {
+    margin: 0;
+  }
+  .input-group {
+    margin-top: 13px;
+  }
+  .about_section .about_first_parttion .small_image {
+    bottom: -12%;
+    right: -5%;
+    width: 200px;
+  }
+  .slider3_section .slider_caption p {
+    width: 80%;
+    font-size: 0.9rem;
+    line-height: 20px;
+  }
+  .biology_section .biology_item {
+    margin: 11px 16px;
+  }
+  .about_section .about_first_part {
+    padding-right: 6px;
+    margin: 0 16px;
+  }
+  .about_section .about_last_part {
+
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .about_section .about_last_part h2 {
+    font-size: 1.6rem;
+    line-height: 2.1rem;
+  }
+  .about_section .about_last_part p {
+    font-size: 0.9rem;
+    line-height: 1.5rem;
+    text-align: justify;
+  }
+  .inner_service_section .service_box {
+    margin: 12px 16px;
+  }
+
+  .recent_section .available h2 {
+    font-size: 2rem;
+
+  }
+  .recent_section article {
+    margin: 20px 16px;
+  }
+
+  .align-items-center {
+    margin: 0 16px;
+  }
+
+  .sciencetist_section .sciencetist_round {
+
+    margin: 12px 16px;
+
+  }
+  .sciencetist_section .sciencetist_img {
+    width: 235px;
+    height: 235px;
+   
+  }
+  .research_section article {
+    margin: 18px 16px;
+  }
+  .footer_box {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+  .slider3_section .slider_caption a {
+    padding: 3px 10px;
+    font-size: .7rem;
+    margin-top: 10px;
+  }
+  .about_section .about_first_part .small_image {
+ 
+    width: 200px;
+  }
+  .about_section .about_first_part {
+    padding-right: 38px;
+    
+  }
+  footer .footer_box ol li > span {
+
+    padding-right: 11px;
+  }
+  .liquid_section .carousel-inner .carousel-item img {
+    width: 6rem;
+    height: 6rem;
+  }
+  .liquid_section .carousel-inner .carousel-item .inner_section {
+    transform: translate(3rem);
+  }
+
+  .liquid_section .carousel-inner .carousel-item img {
+    width: 10rem;
+    height: 10rem;
+    margin-bottom: 3rem;
+  }
+
+
+}
+
+
+
+/* ------------------------ */
+
+
+
+
+
